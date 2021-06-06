@@ -34,7 +34,7 @@ O projeto tem como objetivo oferecer às pessoas de baixa renda a oportunidade d
 + Análise de dados
 + Docker
 + NoSQL em DynamoDB
-+[Projeto Módulo 3](https://github.com/Natalia-oli/projeto_modulo_3)
++ [Projeto Módulo 3](https://github.com/Natalia-oli/projeto_modulo_3)
 
 ## Módulo 4: Bibliotecas científicas do Python
 + Bibliotecas científicas do Python
