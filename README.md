@@ -1,4 +1,9 @@
 ## Turma VamoAI :bar_chart: :books:
+
+![Minha-logo](https://github.com/Natalia-oli/Curso-VamoAI/blob/main/turma-vamo-ai.png)
+
+O projeto tem como objetivo oferecer às pessoas de baixa renda a oportunidade de capacitação na área de tecnologia para Ciência de Dados, preparando-as para uma carreira em Inteligência Artificial.
+
 Módulo 1:
 + Introdução a Programação com Python
 + Introdução a Python
